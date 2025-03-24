@@ -1,0 +1,8 @@
+.pizza-selection{
+    aspect-ratio: auto;
+    width: 500px;
+}
+
+.container-sm {
+    max-width: 800px;
+}
